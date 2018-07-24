@@ -31,7 +31,7 @@ create an incentive plan for agents (at policy level) to maximise the net revenu
 </p>
 
 
-Find my code work through in [this](https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/Predicting_renewal_probability.ipynb) jupyter notebook.
+Find my code walkthrough in [this](https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/Predicting_renewal_probability.ipynb) jupyter notebook.
 
 # Requirements:
 -- python3
