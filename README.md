@@ -19,19 +19,24 @@ Expected increase in chances of renewal, given the effort from the agent.
 Given the information, the client wants you to predict the propensity of renewal collection and
 create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
 <p align="center">
-  <img src="/home/konga/Documents/McKinsey Analytics/img/given_formula0.png" width="350" title="formula">
-  <img src="/home/konga/Documents/McKinsey Analytics/img/given_formulas.png" width="350" alt="formula">
+  <img src="https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/img/given_formula0.png" width="350" title="formula">
+  <img src="https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/img/given_formulas.png" width="350" alt="formula">
 </p>
 
 
-Find my code work through in [this](/home/konga/Documents/McKinsey Analytics/Predicting_renewal_probability.ipynb) jupyter notebook.
+Find my code work through in [this](https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/Predicting_renewal_probability.ipynb) jupyter notebook.
 
 # Requirements:
 -- python3
 
 Libraries
+ 
  sklearn
+
  numpy
+ 
  matplotlib
+ 
  seaborn
+ 
  pandas
