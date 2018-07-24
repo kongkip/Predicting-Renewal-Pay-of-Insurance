@@ -21,7 +21,7 @@ create an incentive plan for agents (at policy level) to maximise the net revenu
 
 
 <p align="center">
-  <img src="https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/img/problem_statement.png" width="350" title="Problem stamement">
+  <img src="https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/problem_statement.png" width="350" title="Problem stamement">
 </p>
 <p align="center">
   <img src="https://github.com/kongaevans/Analytics-Vidhya-Challenge/blob/master/img/given_formula0.png" width="350" title="formula1">
