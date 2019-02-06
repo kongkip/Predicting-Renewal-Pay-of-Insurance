@@ -1,5 +1,3 @@
-McKinsey Analytics had the following competition
-
 # Problem Statement
 Your client is an Insurance company and they need your help in building a model to predict the propensity to pay 
 renewal premium and build an incentive plan for its agents to maximise the net revenue 
